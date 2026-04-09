@@ -12,8 +12,8 @@ export default function Footer() {
                     &copy; {new Date().getFullYear()} ArtePulse. All rights reserved.
                 </div>
                 <div className="mt-2 text-sm text-gray-400 font-medium">
-                    <a href="https://instagram.com/artepulse" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
-                        Instagram @artepulse
+                    <a href="https://www.instagram.com/arete_pulse?igsh=MWdvOHZhMzZtemJ2YQ==" target="_blank" rel="noopener noreferrer" className="hover:text-gray-600 transition-colors">
+                        Instagram @arete_pulse
                     </a>
                 </div>
             </div>
